@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D2E5ED-6B5E-457F-A27E-92B688A8AE41}|Semana-10\\Semana-10.pyproj|C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\Semana-10\\Cajero.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D4D2E5ED-6B5E-457F-A27E-92B688A8AE41}|Semana-10\\Semana-10.pyproj|solutionrelative:Semana-10\\Cajero.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D2E5ED-6B5E-457F-A27E-92B688A8AE41}|Semana-10\\Semana-10.pyproj|C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\Semana-10\\Semana_10.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D4D2E5ED-6B5E-457F-A27E-92B688A8AE41}|Semana-10\\Semana-10.pyproj|solutionrelative:Semana-10\\Semana_10.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cajero.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\Semana-10\\Cajero.py",
+              "RelativeDocumentMoniker": "Semana-10\\Cajero.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\Semana-10\\Cajero.py",
+              "RelativeToolTip": "Semana-10\\Cajero.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-24T14:33:48.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Semana_10.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\Semana-10\\Semana_10.py",
+              "RelativeDocumentMoniker": "Semana-10\\Semana_10.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\T2 SHD\\Semana_10\\Semana_10\\Semana-10\\Semana_10.py",
+              "RelativeToolTip": "Semana-10\\Semana_10.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-24T14:32:53.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
